@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "BgLxdPzCTG7SViBgeBDW6pdLXrbPESJrG0uKV4tv5IvIhqZvnnXgXiu4RoIaus565MlhXtIcWkWoCu2moMftIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tuananh\\Desktop\\Academic\\ktpm\\message_queue\\KTPM\\Worker\\Worker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tuananh\\.nuget\\packages\\rabbitmq.client\\6.6.0\\rabbitmq.client.6.6.0.nupkg.sha512",
+    "C:\\Users\\tuananh\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\tuananh\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
+    "C:\\Users\\tuananh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\tuananh\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\tuananh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\tuananh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
